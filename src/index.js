@@ -15,6 +15,9 @@ app.set("view engine", "hbs")
 /// 1.3. setup where is location of the folder views
 app.set("views", "src/views")
 
+// 4. Setup middlewares
+app.use(express.static("src/public"));
+
 // 2. Routes
 app.get("/", (req, res) => {
     // res.send("It works!");
