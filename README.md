@@ -1,5 +1,5 @@
 # movie-magic-part1
-SoftUni JS Back-End Course Project Part 1
+SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 
 ### Development Steps
 1. Initialize Project ✅
