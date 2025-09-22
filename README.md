@@ -42,7 +42,7 @@ SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 24. Add route with param for details page ✅
 25. Get One movie from service ✅
 26. Find movie by id from model ✅
-27. Render Details Page with dynamic data
+27. Render Details Page with dynamic data ✅
 
 ### Search
 ### Bonuses
