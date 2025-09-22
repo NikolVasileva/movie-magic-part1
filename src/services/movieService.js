@@ -7,5 +7,9 @@ export default {
     create(movieData) {
         //TODO Create Movie
         console.log(movieData)
+
+        const movie = new Movie(movieData);
+
+        return movie.save();
     }
 }
