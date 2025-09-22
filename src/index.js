@@ -21,7 +21,7 @@ app.use(express.static("src/public"));
 // 2. Routes
 app.get("/", (req, res) => {
     // res.send("It works!");
-    res.render("home", {layout: false})
+    res.render("home")
 });
 
 // 3. Start Server

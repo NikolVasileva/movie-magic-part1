@@ -9,3 +9,5 @@ SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 5. Setup Handlebars -> "npm i express-handlebars" ✅
 6. Setup static files ✅
 7. Render Home Page ✅
+8. Add Layout ✅
+9. Add About Page
