@@ -9,11 +9,11 @@ homeController.get("/", (req, res) => {
     const movies = movieService.getAll()
     console.log(movies)
 
-    res.render("home", {movies})
+    res.render("home", {movies, pageTitle: "Catalog"})
 });
 
 homeController.get("/about", (req, res) => {
-    res.render("about")
+    res.render("about", {pageTitle: "About"})
 })
 
 export default homeController

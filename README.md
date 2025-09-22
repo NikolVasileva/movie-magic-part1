@@ -57,8 +57,5 @@ SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 ---
 
 ### Bonuses
-28. File Persistance
-
-
-
-16. Add 404 page
+33. Dynamic Page Title ✅
+34. File Persistance
