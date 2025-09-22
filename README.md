@@ -27,13 +27,22 @@ SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 15. Add Movie Controller ✅
 16. Show Create Movie Page ✅
 17. Add routes ✅
-18. Ability to parse User Data / Read Body Data ✅
-19. Create Movie
-19.1. Add action ✅
-19.2. Add service ✅
-19.3. Add model method for creating movie ✅
-20. Redirect after creation to Home Page ✅
-21. Add unique ID for each created movie ✅
+18. Add 404 Page ✅
+19. Ability to parse User Data / Read Body Data ✅
+20. Create Movie
+20.1. Add action ✅
+20.2. Add service ✅
+20.3. Add model method for creating movie ✅
+21. Redirect after creation to Home Page ✅
+22. Add unique ID for each created movie ✅
+---
+
+### Details
+23. 
+
+### Search
+### Bonuses
+28. File Persistance
 
 
 
