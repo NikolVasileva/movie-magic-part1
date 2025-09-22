@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node scr/index.js",
-    "dev": "node --watch scr/index.js"
+    "dev": "node --watch src/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/NikolVasileva/movie-magic-part1/issues"
   },
-  "homepage": "https://github.com/NikolVasileva/movie-magic-part1#readme"
+  "homepage": "https://github.com/NikolVasileva/movie-magic-part1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
