@@ -2,6 +2,8 @@
 SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 
 ### Development Steps
+
+### Setup
 1. Initialize Project ✅
 2. Add Express Server -> "npm i express" ✅
 3. Config debugging ✅
@@ -11,3 +13,14 @@ SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 7. Render Home Page ✅
 8. Add Layout ✅
 9. Add About Page ✅
+---
+
+### Architecture
+10. Add Home Controller - Home Page & About Page ✅
+11. Add movie data layer
+12. Add movie service
+13. Render movie on Home Page
+14. Show no movies screen
+---
+
+15. Add routes 

@@ -1,5 +1,6 @@
 import express from "express"
 import handlebars from "express-handlebars"
+import homeController from "./controllers/homeController.js";
 
 const app = express();
 
@@ -18,15 +19,8 @@ app.set("views", "src/views")
 // 4. Setup middlewares
 app.use(express.static("src/public"));
 
-// 2. Routes
-app.get("/", (req, res) => {
-    // res.send("It works!");
-    res.render("home")
-});
-
-app.get("/about", (req, res) => {
-    res.render("about")
-})
+// 2. Rourtes
+app.use(homeController)
 
 // 3. Start Server
 app.listen(3000, () => console.log("Server is listening to http://localhost:3000..."))
