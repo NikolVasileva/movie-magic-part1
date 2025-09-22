@@ -32,6 +32,7 @@ SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 19.1. Add action ✅
 19.2. Add service ✅
 19.3. Add model method for creating movie ✅
+20. Redirect after creation to Home Page ✅
 
 
 
