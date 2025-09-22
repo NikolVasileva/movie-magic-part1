@@ -47,7 +47,7 @@ SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 
 ### Search
 28. Show static Search Page ✅
-29. Render all movies
+29. Render all movies ✅
 30. Modify search form
 31. Filter movies
 32. Remember search words
