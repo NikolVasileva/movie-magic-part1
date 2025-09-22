@@ -17,7 +17,7 @@ SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 
 ### Architecture
 10. Add Home Controller - Home Page & About Page ✅
-11. Add movie data layer
+11. Add movie data layer ✅
 12. Add movie service
 13. Render movie on Home Page
 14. Show no movies screen
