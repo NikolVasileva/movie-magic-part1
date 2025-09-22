@@ -59,4 +59,4 @@ SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 ### Bonuses
 33. Dynamic Page Title ✅
 34. Movie Raiting (temporary solution) ✅
-35. File Persistance
+35. File Persistance -> Dynamic DB ✅

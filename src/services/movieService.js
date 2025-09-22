@@ -10,9 +10,7 @@ export default {
     },
 
     create(movieData) {
-        //TODO Create Movie
-        console.log(movieData)
-
+        movieData.rating = Number(movieData.rating)
         const movie = new Movie(movieData);
 
         return movie.save();
