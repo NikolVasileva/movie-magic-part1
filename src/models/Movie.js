@@ -62,7 +62,7 @@ export default class Movie {
         }
 
         if (filter.title) {
-            
+            result = result.filter(movie => movie.title.toLocaleLowerCase().includes(filter.title.toLocaleLowerCase()))
         }
 
         if (filter.genre) {

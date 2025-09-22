@@ -51,8 +51,8 @@ SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 30. Modify search form ✅
 31. Filter movies
 31.1 By Year ✅
-31.2 By Genre
-31.3. By Title
+31.2 By Genre ✅
+31.3. By Title ✅
 32. Remember search words
 ---
 
