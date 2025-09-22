@@ -27,7 +27,7 @@ SoftUni JS Back-End Course Project <strong>"Movie Magic" Part 1</strong>
 15. Add Movie Controller ✅
 16. Show Create Movie Page ✅
 17. Add routes ✅
-18. Ability to parse User Data / Read Body Data
+18. Ability to parse User Data / Read Body Data ✅
 19. Create Movie
 19.1. Add action
 19.2. Add service
