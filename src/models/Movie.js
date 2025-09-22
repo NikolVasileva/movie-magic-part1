@@ -66,7 +66,7 @@ export default class Movie {
         }
 
         if (filter.genre) {
-            
+            result = result.filter(movie => movie.genre.toLocaleLowerCase() === filter.genre.toLocaleLowerCase())
         }
 
         if (filter.year) {
