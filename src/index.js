@@ -1,6 +1,7 @@
 import express from "express"
 import handlebars from "express-handlebars"
 import homeController from "./controllers/homeController.js";
+import movieController from "./controllers/movieController.js";
 
 const app = express();
 
@@ -20,7 +21,8 @@ app.set("views", "src/views")
 app.use(express.static("src/public"));
 
 // 2. Rourtes
-app.use(homeController)
+app.use(homeController);
+app.use(movieController)
 
 // 3. Start Server
 app.listen(3000, () => console.log("Server is listening to http://localhost:3000..."))
